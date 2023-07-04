@@ -6,6 +6,7 @@
 
 ```javascript
 console.log(2 + 2 + '3');
+```
  . 23
  . 43
  . 43 (JavaScript performs left-to-right evaluation, so it treats the initial operands as numbers and concatenates the last '3' as a string.)
